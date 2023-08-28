@@ -1,17 +1,13 @@
-let a = 6;
-let b = 'Hello';
+let a = 16;
 
-console.log(a);
+// // >= <= == !=
+// if (a >= 9) {
+//     // true
+//     console.log('yes');
+// }
+// else {
+//         console.log('else');
+// }
 
-let inputIn = document.querySelector('.input-in'); //input
-let button = document.querySelector('button'); //button
-
-button.onclick = function () {
-    // кнопка будет нажата
-    console.log('Работает!!!');
-    console.log(inputIn.value); //value - то что  введено в input
-    let b = inputIn.value;
-    console.log(b + 10);
-
-}
+const button = document.querySelector('button');
 
