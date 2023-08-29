@@ -1,4 +1,4 @@
-let a = 16;
+// let a = 16;
 
 // // >= <= == !=
 // if (a >= 9) {
@@ -9,6 +9,6 @@ let a = 16;
 //         console.log('else');
 // }
 
-const button = document.querySelector('button');
+// const button = document.querySelector('button');
 
 
